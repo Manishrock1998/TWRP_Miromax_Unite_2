@@ -16,7 +16,7 @@
 LOCAL_PATH := device/micromax/a106
 
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/recovery/root/sbin/libminuitwrp:root/sbin/libminuitwrp
+    $(LOCAL_PATH)/root/sbin/libminuitwrp:root/sbin/libminuitwrp
 
 
 
