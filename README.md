@@ -1,4 +1,4 @@
-# Omin_Based_TWRP_device_tree_Redmi_Note_3G_MT6592
+# Omni_Based_TWRP_device_tree_Micromax_Unite2_A106_MT6582
 
 #Compilation Commands
 
